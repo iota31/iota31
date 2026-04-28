@@ -27,7 +27,7 @@ These days I build AI-powered side projects through the onllm ecosystem: local a
 role          Software Engineer + AI Graduate Student
 location      Lille, France
 focus         Backend systems, automation, DevOps, AI products
-building      onllm.dev ecosystem, OnUI, memo.sbs, HealU, OnDesk
+building      onllm.dev ecosystem, OnUI, memo.sbs, HealU, 4DPocket
 looking_for   AI/backend/product engineering roles and collaborations
 personality   recruiter-friendly, but with the debug logs left on
 ```
@@ -203,12 +203,12 @@ Local, on-device AI assistant for Android running Phi, Qwen, and Llama-family mo
 <tr>
 <td width="50%" valign="top">
 
-### [OnDesk](https://ondesk.onllm.dev)
-Intelligent AI collaborator for multimodal work, approved execution, and project-scoped context continuity. Basically a coworker with fewer meetings.
+### [4DPocket](https://github.com/onllm-dev/4DPocket)
+Self-hosted AI-powered personal knowledge base. Save content from **17+ platforms**, auto-tag, summarize, and connect with semantic search.
 
-![Multimodal](https://img.shields.io/badge/Multimodal-7C3AED?style=flat-square)
-![Agentic Execution](https://img.shields.io/badge/Agentic%20Execution-2563EB?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP-111827?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Self-Hosted](https://img.shields.io/badge/Self--Hosted-10B981?style=flat-square)
+![Semantic Search](https://img.shields.io/badge/Semantic%20Search-7C3AED?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
