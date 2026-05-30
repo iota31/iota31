@@ -17,6 +17,14 @@
 
 ---
 
+<div align="center">
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/iota31/svg?template=blueprint&graph=1&tokens=full&cost=compact)](https://tokscale.ai/u/iota31)
+
+</div>
+
+---
+
 ## Hey, I'm Tushar
 
 Software engineer with **8 years** across backend systems, QA automation, DevOps, infrastructure, and product engineering. I started in backend infrastructure and security, spent years making systems reliable enough to sleep near, and now I'm pursuing an **MSc in AI & Analytics for Business at IÉSEG** in Lille, France.
